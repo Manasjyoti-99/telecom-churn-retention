@@ -11,8 +11,8 @@ Churn-risk retention proposal for Company A, a telecom operator
   per 100,000 customers in one month at 0.50 cost per contact.
 
 ## Files
-- `<name>.ipynb`: full analysis (EDA, features, models, risk ranking, impact)
-- `<name>.pdf`: 15-slide proposal deck
+- `Manasjyoti Baishya.ipynb`: full analysis (EDA, features, models, risk ranking, impact)
+- `Manasjyoti Baishya.pdf`: 15-slide proposal deck
 
 ## Data
 Client.csv and Record.csv are course material from GCI World and are not
