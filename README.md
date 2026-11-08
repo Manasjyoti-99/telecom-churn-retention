@@ -1,5 +1,4 @@
 # Keeping customers before they leave
-
 Churn-risk retention proposal for Company A, a telecom operator
 (GCI World 2026 September final assignment).
 
@@ -18,7 +17,3 @@ Churn-risk retention proposal for Company A, a telecom operator
 ## Data
 Client.csv and Record.csv are course material from GCI World and are not
 included here.
-
-## Note
-Built with help from Claude (Anthropic) for analysis review, market
-research, and slides. See the assignment submission for the chat link.
